@@ -1,5 +1,6 @@
 body {
   background-color: lightblue;
+  font-family: 'Ubuntu', serif;
 }
 
 h1 {
@@ -8,6 +9,5 @@ h1 {
 }
 
 p {
-  font-family: ubuntu;
   font-size: 20px;
 }
