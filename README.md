@@ -1,2 +1,2 @@
 # Website
-nativeOS-project.giithub.io
+https://nativeOS-project.github.io
