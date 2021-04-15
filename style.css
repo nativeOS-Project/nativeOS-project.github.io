@@ -3,6 +3,7 @@
 body {
   background-color: lightblue;
   /* how do i import custom fonts*/
+  font-family: 'Ubuntu', sans-serif;
 }
 
 h1 {
